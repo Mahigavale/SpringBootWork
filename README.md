@@ -1,5 +1,6 @@
 Spring Boot Projects Repository
-Welcome to my Spring Boot Projects Repository! This collection showcases over 62 diverse and meticulously crafted Spring Boot backend projects, highlighting my expertise in building robust and scalable applications.
+Welcome to my Spring Boot Projects Repository! 
+This collection showcases over 62 diverse and meticulously crafted Spring Boot backend projects, highlighting my expertise in building robust and scalable applications.
 
 Key Features:
 Comprehensive ORM Implementations: Demonstrates extensive use of Spring Boot's ORM module with practical examples.
